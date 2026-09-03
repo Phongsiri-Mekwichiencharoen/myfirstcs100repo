@@ -35,3 +35,15 @@ a {
     padding: 10px 15px;
     margin: 15px 0;
 }
+
+.photo {
+text-align: center;
+}
+
+.photo img {
+width: 320px;
+}
+
+.info {
+width: 620px;
+margin: 40px auto 0 auto;
