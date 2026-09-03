@@ -28,14 +28,6 @@ h1 {
     font-weight: bold;
 }
 
-a {
-    color: white;
-    text-align: center;
-    background-color: rgb(78, 78, 209);
-    padding: 10px 15px;
-    margin: 15px 0;
-}
-
 .photo {
 text-align: center;
 }
@@ -47,3 +39,16 @@ width: 320px;
 .info {
 width: 620px;
 margin: 40px auto 0 auto;
+}
+
+.button {
+    text-align: center;
+    margin-top: 35px;
+    }
+
+.button a {
+    background-color: #5b67b3;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+}
